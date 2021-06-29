@@ -1,0 +1,32 @@
+.logo{
+    width: 20%;
+    margin-left: 130px;
+
+}
+
+.hero1{
+    /* width: 20%;
+    margin-left: 130px; */
+}
+
+.sec_1_1{
+    padding-left: 100px;
+
+    padding-right: 100px;
+    background-color: grey;
+}
+
+
+.sec_1_p1{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+header{
+    background-color: black;
+    color: white;
+}
+
+
+

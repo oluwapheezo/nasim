@@ -1,0 +1,44 @@
+ul li{
+    float: right;
+    list-style-type: none;
+    text-decoration: none;
+    color: blue;
+    padding: 5px 20px;
+    border: 1px solid transparent ;
+    transition: 0.6s ease;
+    margin-bottom: 150px;
+}
+
+h1{
+    font-size: large;
+
+}
+
+
+
+h3{
+    margin-top: 30px;
+    color: black;
+}
+
+header{
+    background-color: #fff;
+}
+
+
+.log_img{
+    width: 20%;;
+
+    margin-left: 130px;
+}
+
+.logo-img{
+    width: 20%;
+    margin-left: 130px;
+}
+
+.logo-ig{
+    width: 20%;
+    margin-left: 130px;
+
+}
