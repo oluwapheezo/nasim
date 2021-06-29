@@ -23,9 +23,27 @@
     font-size: 30px;
 }
 
-header{
+.header_clss{
     background-color: black;
     color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.group1{
+
+    padding-left: 30px;
+    
+}
+
+.word1{
+  
+}
+
+.word2{
+ 
 }
 
 
